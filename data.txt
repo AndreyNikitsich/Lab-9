@@ -1,0 +1,5 @@
+The Big Lebowski;comedy;18.01.1998;117;46.7;
+The Intouchables;comedy-drama;27.09.2011;112;426.6;
+The Hateful Eight;western thriller;7.12.2015;187;155.8;
+Django Unchained;western;11.12.2012;165;425.4;
+Green Book;comedy-drama; 11.11.2018;130;321.8;
